@@ -3,4 +3,4 @@
 - 🌱 I’m currently enrolled in CS50x
 - 📫 You can reach me via goktugksoyturk@gmail.com or instagram: @goktugq0
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a 10th grader who studies at an IB School.
+- ⚡ Fun fact: FindECs Member
