@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @goktugksoyturk
 - 👀 I’m interested in Computer Science and Website developing
-- 🌱 I’m currently enrolled in CS50x
-- 📫 You can reach me via goktugksoyturk@gmail.com or instagram: @goktugso
+- 🌱 I’m currently enrolled in CS50W
+- 📫 You can reach me via sending me an email, goktugksoyturk@gmail.com or DMs instagram: @goktugso
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I live in Mexico as a Turkish student
+- 📚 Education: I'm enrolled in IB Diploma Programe and will graduate by 2026
+- 💻 I'm currently working as Junior Developer intern at Fotofacturas
+- Linkedin: https://www.linkedin.com/in/göktuğ-kaan-soytürk/
