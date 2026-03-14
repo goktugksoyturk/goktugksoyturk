@@ -4,6 +4,7 @@
 - 📫 You can reach me via sending me an email, goktugksoyturk@gmail.com or DMs instagram: @goktugso
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I live in Mexico as a Turkish student
-- 📚 Education: I'm enrolled in IB Diploma Programe and will graduate by 2026
+- 📚 Education: I'm enrolled in IB Diploma Programe and will graduate by 2026 May
 - 💻 I'm currently working as Junior Developer intern at Fotofacturas
+- 🌟 You can check my website to learn more about me: goktugksoyturk.github.io
 - Linkedin: https://www.linkedin.com/in/göktuğ-kaan-soytürk/
