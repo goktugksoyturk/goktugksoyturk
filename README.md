@@ -6,5 +6,5 @@
 - ⚡ Fun fact: I live in Mexico as a Turkish student
 - 📚 Education: I'm enrolled in IB Diploma Programe and will graduate by 2026 May
 - 💻 I'm currently working as Junior Developer intern at Fotofacturas
-- 🌟 You can check my website to learn more about me: https://goktugksoyturk.github.io
+- 🌟 You can check my website to learn more about me: https://goktugsoyturk.dev
 - Linkedin: https://www.linkedin.com/in/göktuğ-kaan-soytürk/
