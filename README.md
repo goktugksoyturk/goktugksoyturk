@@ -4,7 +4,7 @@
 - 📫 You can reach me via sending me an email, goktugksoyturk@gmail.com or DMs instagram: @goktugso
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to live in Mexico for 2 years with my family and other 2 years just  by myself in high school
-- 📚 Education: I graduated in IB Diploma Programme and will study CS @ Lancaster University or Istanbul Technical University
+- 📚 Education: I graduated in IB Diploma Programme and currently studying Control and Automation Engineering @ Yildiz Technical University
 - 💻 I'm currently working as Junior Front-End Developer @ Fotofacturas
 - 🌟 You can check my website to learn more about me: https://goktugsoyturk.dev
 - Linkedin: https://www.linkedin.com/in/göktuğ-kaan-soytürk/
