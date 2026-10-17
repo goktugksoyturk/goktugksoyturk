@@ -5,6 +5,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to live in Mexico for 2 years with my family and other 2 years just  by myself in high school
 - 📚 Education: I graduated in IB Diploma Programme and currently studying Control and Automation Engineering @ Yildiz Technical University
-- 💻 I'm currently working as Junior Software Engineer @ Fotofacturas
+- 💻 I'm currently working as Junior Software Engineer @ Fotofacturas & GTM Engineer Intern @ Atlantic
 - 🌟 You can check my website to learn more about me: https://goktugsoyturk.dev
 - Linkedin: https://www.linkedin.com/in/göktuğ-kaan-soytürk/
