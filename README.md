@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @goktugksoyturk
-- 👀 I’m interested in Computer Science and cool looking responsive Website developing.
-- 🌱 I’m currently enrolled in CS50W
-- 📫 You can reach me via sending me an email, goktugksoyturk@gmail.com or DMs instagram: @goktugso
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to live in Mexico for 2 years with my family and other 2 years just  by myself in high school
-- 📚 Education: I graduated in IB Diploma Programme and currently studying Control and Automation Engineering @ Yildiz Technical University
-- 💻 I'm currently working as ** Junior Software Engineer ** @ Fotofacturas & ** GTM Engineer Intern ** @ Atlantic
-- 🌟 You can check my website to learn more about me: https://goktugsoyturk.dev
-- Linkedin: https://www.linkedin.com/in/göktuğ-kaan-soytürk/
+# Hey, I'm Göktuğ 👋
+
+I'm **@goktugksoyturk**, a software engineer interested in building useful software and creating clean, responsive web experiences.
+
+- 💻 **Currently working as**
+  - Junior Software Engineer @ FotoFacturas
+  - GTM Engineer Intern @ Atlantic
+- 🎓 **Education:** Control and Automation Engineering at Yıldız Technical University | IB Diploma Programme graduate
+- 🌱 **Currently learning:** CS50W — Web Programming with Python and JavaScript
+- 👀 **Interests:** Computer Science, Software Engineering, Web Development, and building cool, responsive websites
+- 🌎 **Fun fact:** I lived in Mexico for four years — two with my family and two independently during high school.
+- 📫 **Email:** [goktugsoyturk@gmail.com](mailto:goktugsoyturk@gmail.com)
+- 📸 **Instagram:** [@goktugso](https://www.instagram.com/goktugso/)
+- 😄 **Pronouns:** He/Him
+
+### 🔗 Find me around the web
+
+- 🌐 [Personal Website](https://goktugsoyturk.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/göktuğ-kaan-soytürk/)
